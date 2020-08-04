@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<caribe>
+	<play>0</play>
+	<caribe_volScale>1</caribe_volScale>
+	<fade>0</fade>
+</caribe>
+<mogishiken>
+	<play>0</play>
+	<scene>0</scene>
+	<slide>0</slide>
+	<fade>0</fade>
+	<speed>1</speed>
+	<size>1</size>
+	<PI>0.1</PI>
+</mogishiken>
